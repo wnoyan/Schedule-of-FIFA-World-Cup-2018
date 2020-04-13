@@ -1,0 +1,167 @@
+# depslib dependency file v1.0
+1529815664 source:c:\users\user\desktop\utdrfd\fr'18.cpp
+
+1529815358 source:c:\users\user\desktop\utdrfd\groupinfo.cpp
+
+1529815341 source:c:\users\user\desktop\utdrfd\main.cpp
+	<iostream>
+	"header.h"
+
+1529815664 source:c:\users\user\desktop\utdrfd\prizeclass.cpp
+
+1529815664 source:c:\users\user\desktop\utdrfd\stadiumclass.cpp
+	<bits/stdc++.h>
+
+1529815664 source:c:\users\user\desktop\utdrfd\teamclass.cpp
+
+1529815855 c:\users\user\desktop\utdrfd\header.h
+	"StadiumClass.h"
+	"FR'18.h"
+	"GroupInfo.h"
+	"PrizeClass.h"
+	"TeamClass.h"
+	"ScheduleClass.h"
+
+1529815664 c:\users\user\desktop\utdrfd\stadiumclass.h
+
+1529815664 c:\users\user\desktop\utdrfd\fr'18.h
+	<bits/stdc++.h>
+
+1529815664 c:\users\user\desktop\utdrfd\groupinfo.h
+	<bits/stdc++.h>
+
+1529815664 c:\users\user\desktop\utdrfd\prizeclass.h
+	<bits/stdc++.h>
+
+1529815664 c:\users\user\desktop\utdrfd\teamclass.h
+	<bits/stdc++.h>
+
+1529815850 c:\users\user\desktop\utdrfd\scheduleclass.h
+	<bits/stdc++.h>
+
+1529815849 source:c:\users\user\desktop\utdrfd\scheduleclass.cpp
+
+1529822629 source:c:\users\user\desktop\fifa world cup 2018 russia\main.cpp
+	<iostream>
+	"header.h"
+	<bits/stdc++.h>
+
+1529817798 c:\users\user\desktop\fifa world cup 2018 russia\header.h
+	"FR'18.h"
+	"TeamClass.h"
+	"GroupInfo.h"
+	"PrizeClass.h"
+	"StadiumClass.h"
+	"ScheduleClass.h"
+
+1529819509 c:\users\user\desktop\fifa world cup 2018 russia\stadiumclass.h
+	<bits/stdc++.h>
+
+1529817808 c:\users\user\desktop\fifa world cup 2018 russia\fr'18.h
+	<bits/stdc++.h>
+
+1529817592 c:\users\user\desktop\fifa world cup 2018 russia\groupinfo.h
+	<bits/stdc++.h>
+
+1529823104 c:\users\user\desktop\fifa world cup 2018 russia\prizeclass.h
+	<bits/stdc++.h>
+
+1529817651 c:\users\user\desktop\fifa world cup 2018 russia\teamclass.h
+	<bits/stdc++.h>
+
+1529817719 c:\users\user\desktop\fifa world cup 2018 russia\scheduleclass.h
+	<bits/stdc++.h>
+
+1529822629 source:c:\users\user\desktop\project\fifa world cup 2018 russia\main.cpp
+	<iostream>
+	"header.h"
+	<bits/stdc++.h>
+
+1529817798 c:\users\user\desktop\project\fifa world cup 2018 russia\header.h
+	"FR'18.h"
+	"TeamClass.h"
+	"GroupInfo.h"
+	"PrizeClass.h"
+	"StadiumClass.h"
+	"ScheduleClass.h"
+
+1529817808 c:\users\user\desktop\project\fifa world cup 2018 russia\fr'18.h
+	<bits/stdc++.h>
+
+1529817651 c:\users\user\desktop\project\fifa world cup 2018 russia\teamclass.h
+	<bits/stdc++.h>
+
+1529817592 c:\users\user\desktop\project\fifa world cup 2018 russia\groupinfo.h
+	<bits/stdc++.h>
+
+1529823104 c:\users\user\desktop\project\fifa world cup 2018 russia\prizeclass.h
+	<bits/stdc++.h>
+
+1529819509 c:\users\user\desktop\project\fifa world cup 2018 russia\stadiumclass.h
+	<bits/stdc++.h>
+
+1529829437 c:\users\user\desktop\project\fifa world cup 2018 russia\scheduleclass.h
+	<bits/stdc++.h>
+
+1529822629 source:f:\projects\2.1 project\project\fifa world cup 2018 russia\main.cpp
+	<iostream>
+	"header.h"
+	<bits/stdc++.h>
+
+1529817798 f:\projects\2.1 project\project\fifa world cup 2018 russia\header.h
+	"FR'18.h"
+	"TeamClass.h"
+	"GroupInfo.h"
+	"PrizeClass.h"
+	"StadiumClass.h"
+	"ScheduleClass.h"
+
+1529817808 f:\projects\2.1 project\project\fifa world cup 2018 russia\fr'18.h
+	<bits/stdc++.h>
+
+1529817651 f:\projects\2.1 project\project\fifa world cup 2018 russia\teamclass.h
+	<bits/stdc++.h>
+
+1529817592 f:\projects\2.1 project\project\fifa world cup 2018 russia\groupinfo.h
+	<bits/stdc++.h>
+
+1529823104 f:\projects\2.1 project\project\fifa world cup 2018 russia\prizeclass.h
+	<bits/stdc++.h>
+
+1529819509 f:\projects\2.1 project\project\fifa world cup 2018 russia\stadiumclass.h
+	<bits/stdc++.h>
+
+1529829437 f:\projects\2.1 project\project\fifa world cup 2018 russia\scheduleclass.h
+	<bits/stdc++.h>
+
+1586781270 source:c:\users\noyan ali\desktop\fifa world cup 2018 russia\main.cpp
+	<iostream>
+	"header.h"
+	<bits/stdc++.h>
+
+1529817798 c:\users\noyan ali\desktop\fifa world cup 2018 russia\header.h
+	"FR'18.h"
+	"TeamClass.h"
+	"GroupInfo.h"
+	"PrizeClass.h"
+	"StadiumClass.h"
+	"ScheduleClass.h"
+
+1529817808 c:\users\noyan ali\desktop\fifa world cup 2018 russia\fr'18.h
+	<bits/stdc++.h>
+
+1586783091 c:\users\noyan ali\desktop\fifa world cup 2018 russia\teamclass.h
+	<bits/stdc++.h>
+
+1529817592 c:\users\noyan ali\desktop\fifa world cup 2018 russia\groupinfo.h
+	<bits/stdc++.h>
+
+1529823104 c:\users\noyan ali\desktop\fifa world cup 2018 russia\prizeclass.h
+	<bits/stdc++.h>
+
+1529819509 c:\users\noyan ali\desktop\fifa world cup 2018 russia\stadiumclass.h
+	<bits/stdc++.h>
+
+1529829437 c:\users\noyan ali\desktop\fifa world cup 2018 russia\scheduleclass.h
+	<bits/stdc++.h>
+

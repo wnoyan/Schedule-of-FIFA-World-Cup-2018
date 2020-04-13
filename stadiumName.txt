@@ -1,0 +1,12 @@
+SamaraArena
+NizhnyNovgorodStadium
+VolgogradArena
+EkaterinburgArena
+MordoviaArena
+RostovArena
+KaliningradStadium
+KazanArena
+SpartakStadium
+FishtStadium
+SaintPetersburgStadium
+LuzhnikiStadium

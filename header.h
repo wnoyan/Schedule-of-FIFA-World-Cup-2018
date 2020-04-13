@@ -1,0 +1,6 @@
+#include "FR'18.h"
+#include "TeamClass.h"
+#include "GroupInfo.h"
+#include "PrizeClass.h"
+#include "StadiumClass.h"
+#include "ScheduleClass.h"
