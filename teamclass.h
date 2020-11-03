@@ -26,23 +26,27 @@ TeamsInfo::TeamsInfo(string teamName)
         cout<<"\t\tGermany Team Details!"<<endl;
         cout<<"\t\t-------------------------"<<endl<<endl;
         Germany();
+        showTeams();
     }
 
     else if(teamName == "Brazil"){
         cout<<"\t\tBrazil Team Details!"<<endl;
         cout<<"\t\t-------------------------"<<endl<<endl;
         Brazil();
+        showTeams();
     }
 
     else if(teamName == "Argentina"){
         cout<<"\t\tArgentina Team Details!"<<endl;
         cout<<"\t\t-------------------------"<<endl<<endl;
         Argentina();
+        showTeams();
     }
 
     else
     {
-        cout<<"Team Name Is Incorrect! Please, Type Correct Team Name!"<<endl<<endl;
+        cout<<"\t\tTeam Name Is Incorrect! Please, Type Correct Team Name!"<<endl<<endl;
+	    cout<<"\t\tNB: Team Data Collection Is a Huge Time Consuming Task!\n\t\tOnly Germany, Brazil and Argentina's Team Data Have Been Collected for this Demo Project!"<<endl<<endl;
     }
 
 }
