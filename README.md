@@ -1,14 +1,14 @@
 # Schedule-of-FIFA-World-Cup-2018
 ## YouTube Video Link: https://youtu.be/E5C-qpFvQtw
 
-This project using object oriented programming (OOP) features including inheritance, polymorphism and specially STL in C++ is developed for providing information such as schedule, team, group, stadium and prize information of FIFA World Cup Russia 2018.
+This project using object oriented programming (OOP) features including inheritance, polymorphism, abstraction, encapsulation, and STL in C++ is developed for providing information such as schedule, team, group, stadium and prize information of FIFA World Cup Russia 2018.
 
 ## Object Oriented Programming (OOP) Features
 The OOP features that have been used in this project are listed below:
-  * Encapsulation
-  * Abstraction
   * Inheritance
   * Polymorphism
+  * Encapsulation
+  * Abstraction
 
 ## Snapshot of the Project
 ### Figure 1: After Running the Project
